@@ -30,7 +30,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 ### Code example:
 KATA from CODEWARS: An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.  
 
-```
+
     function isIsogram(str){  
 
       const strLower=str.toLowerCase();
@@ -45,7 +45,7 @@ KATA from CODEWARS: An isogram is a word that has no repeating letters, consecut
       }
     }  
 
-```  
+ 
  ### Courses:
  * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress);
  * Web application development with JavaScript on the IT-academy;
