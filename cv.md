@@ -1,7 +1,6 @@
 ### rsschool-cv
 
 # Liliya Valakhanovich
-*** 
 
 ### Junior Frontend Developer
 
@@ -44,12 +43,13 @@ KATA from CODEWARS: An isogram is a word that has no repeating letters, consecut
       }
     }  
 
+    
  ### Courses:
  * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress);
  * Web application development with JavaScript on the IT-academy;
  [Certificate](https://drive.google.com/file/d/11yaXYzl3ixsblZ_qERwfnYj88zEXdiGb/view?usp=sharing)
  * Website development with HTML, CSS and JavaScript on the IT-academy;
- [Certificate](https://drive.google.com/file/d/12MWB-H0-x6Fzm5qPd3DejHXBshrMBiXC/view)
+ [Certificate](https://drive.google.com/file/d/12MWB-H0-x6Fzm5qPd3DejHXBshrMBiXC/view)  
 
  ### Languages:
  * English - A2;
