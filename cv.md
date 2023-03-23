@@ -5,10 +5,14 @@
 ### Junior Frontend Developer
 
 ### Contact information:
-**Phone:** +375 291259738
-**E-mail:** valakhanovichliliya@gmail.com
-[Linkedin](https://www.linkedin.com/in/liliya-valakhanovich-000418262/)
-[Portfolio](https://github.com/LiliyaValakhanovich)
+**Phone:** +375 291259738  
+
+**E-mail:** valakhanovichliliya@gmail.com  
+
+[Linkedin](https://www.linkedin.com/in/liliya-valakhanovich-000418262/)  
+
+[Portfolio](https://github.com/LiliyaValakhanovich)  
+
 
 ### About myself:
 Having started my career as a layout in IT-academy. I successfully completed a course "Website development with HTML, CSS and JavaScript". I made two responsive site pages using HTML and CSS. I made the first page following the example of Figma and the second page of the website for construction of houses. This sphere interested me and I continued studying JavaScript for course "Web application development with JavaScript". At the end ща this course I made a weather forecast application. In this application the user can view the weather by the name of the city for the current moment and for 5 days. The last 10 requests are saved and the weather in this city is shown when you click over them.
