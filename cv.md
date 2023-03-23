@@ -29,20 +29,22 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 ### Code example:
 KATA from CODEWARS: An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.  
 
-```Java Script
-  function isIsogram(str){  
+```Java Script  
 
-    const strLower=str.toLowerCase();
-    for (let i=0; i<=strLower.length; i++){
-      if(strLower.split(strLower[i]).length-1>1){
-        return(false);
-          } if(strLower.split(strLower[i]).length-1===0){
-          return true;
-        } if(strLower.length===0){
-          return (true);
+    function isIsogram(str){  
+
+      const strLower=str.toLowerCase();
+      for (let i=0; i<=strLower.length; i++){
+        if(strLower.split(strLower[i]).length-1>1){
+          return(false);
+            } if(strLower.split(strLower[i]).length-1===0){
+            return true;
+          } if(strLower.length===0){
+            return (true);
+        }
       }
-    }
-  }
+    }  
+
 ```  
 
  ### Courses:
